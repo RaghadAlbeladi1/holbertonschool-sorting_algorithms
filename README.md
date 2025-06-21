@@ -27,3 +27,28 @@ Please use the "short" notation (don't use constants). Example: `O(nk)` or `O(wn
 * [`0-main.c`](tests/0-main.c) [`1-main.c`](tests/1-main.c) [`2-main.c`](tests/2-main.c) [`3-main.c`](tests/3-main.c)
 
 ---
+## Compilation / Instalistaion
+
+
+
+
+
+
+
+
+--- 
+## Examples
+
+
+
+
+
+
+
+
+
+
+
+
+---
+## Testing
