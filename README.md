@@ -2,9 +2,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C logo" width="60" height="60"/>
   &nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/5f8d33ce-fed8-438a-935c-a9916afef26e" alt="Holberton logo" width="110" height="55"/>
-  &nbsp;&nbsp;      <strong>C - Sorting algorithms & Big O <p align="Left">
+  &nbsp;&nbsp;   
  
----
+
+<h1 align="center">C - Sorting Algorithms & Big O</h1>
+
+
 
 ### Description
 Team project. Introduction to popular sorting algorithms, and using big O notation to indicate time and space complexity.
