@@ -5,6 +5,7 @@
 ### Description
 Team project. Introduction to popular sorting algorithms, and using big O notation to indicate time and space complexity.
 
+--- 
 
 ### Requirements
 * You are not allowed to use global variables
