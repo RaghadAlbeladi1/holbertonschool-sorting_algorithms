@@ -84,7 +84,3 @@ Please use the "short" notation (don't use constants). Example: `O(nk)` or `O(wn
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RaghadAlbeladi1/holbertonschool-binary_trees/main/images/team.png" alt="Holberton & Tuwaiq Banner" />
-</p>
