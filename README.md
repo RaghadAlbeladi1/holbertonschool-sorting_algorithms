@@ -37,7 +37,10 @@ Please use the "short" notation (don't use constants). Example: `O(nk)` or `O(wn
 
 ---
 ## Compilation / Instalistaion
-
+      .
+      .
+      .
+![C5FOCL4VcAEeMqn](https://github.com/user-attachments/assets/d8588522-f21c-41fe-b851-710b7d1a1a2f)
 
 
 
