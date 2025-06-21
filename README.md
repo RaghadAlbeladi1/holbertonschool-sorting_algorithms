@@ -1,5 +1,9 @@
-# C - Sorting algorithms & Big O
 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C logo" width="60" height="60"/>
+  &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/5f8d33ce-fed8-438a-935c-a9916afef26e" alt="Holberton logo" width="110" height="55"/>
+  &nbsp;&nbsp;      <strong>C - Sorting algorithms & Big O <p align="Left">
+ 
 ---
 
 ### Description
