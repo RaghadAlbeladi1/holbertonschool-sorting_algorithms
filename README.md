@@ -3,8 +3,6 @@
   &nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/5f8d33ce-fed8-438a-935c-a9916afef26e" alt="Holberton logo" width="110" height="55"/>
   &nbsp;&nbsp;   
- 
-
 <h1 align="center">C - Sorting Algorithms & Big O</h1>
 
 
