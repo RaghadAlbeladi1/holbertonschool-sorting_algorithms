@@ -64,3 +64,15 @@ Please use the "short" notation (don't use constants). Example: `O(nk)` or `O(wn
 
 ---
 ## Testing
+
+---
+
+## Authors
+
+| ![Raghad](https://avatars.githubusercontent.com/u/00000000?v=4&s=200) | ![Najwa](https://avatars.githubusercontent.com/u/00000000?v=4&s=200) |
+|:--:|:--:|
+| [Raghad Albeladi](https://github.com/RaghadAlbeladi1) | [Najwa Aljunaidel](https://github.com/NajwaAljunaidel) |
+
+![Holberton & Tuwaiq](https://raw.githubusercontent.com/RaghadAlbeladi1/holbertonschool-binary_trees/main/images/team.png)
+
+
