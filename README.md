@@ -66,13 +66,25 @@ Please use the "short" notation (don't use constants). Example: `O(nk)` or `O(wn
 ## Testing
 
 ---
-
 ## Authors
 
-| ![Raghad](https://avatars.githubusercontent.com/u/00000000?v=4&s=200) | ![Najwa](https://avatars.githubusercontent.com/u/00000000?v=4&s=200) |
-|:--:|:--:|
-| [Raghad Albeladi](https://github.com/RaghadAlbeladi1) | [Najwa Aljunaidel](https://github.com/NajwaAljunaidel) |
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd25mdmozcjhzbzRhc3BnNGg3bDdpOTg3Z3Jla3gwdHZuaXM4bWhzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/otuYfiaJeYSM05ECs5/giphy.gif" width="200" height="200" alt="Animated Flower" />
+</p>
 
-![Holberton & Tuwaiq](https://raw.githubusercontent.com/RaghadAlbeladi1/holbertonschool-binary_trees/main/images/team.png)
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/00000000?v=4&s=60" alt="Raghad" style="border-radius: 50%;" /><br />
+      <a href="https://github.com/RaghadAlbeladi1">Raghad Albeladi</a>
+    </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/00000000?v=4&s=60" alt="Najwa" style="border-radius: 50%;" /><br />
+      <a href="https://github.com/NajwaAljunaidel">Najwa Aljunaidel</a>
+    </td>
+  </tr>
+</table>
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RaghadAlbeladi1/holbertonschool-binary_trees/main/images/team.png" alt="Holberton & Tuwaiq Banner" />
+</p>
