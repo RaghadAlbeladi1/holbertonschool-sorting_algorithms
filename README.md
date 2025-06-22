@@ -38,24 +38,30 @@ Please use the "short" notation (don't use constants). Example: `O(nk)` or `O(wn
 
 ### Raghad Albeladi
 
-| File               | Description                                           |
-|--------------------|-----------------------------------------------------|
-| sort.h             | Header file with prototypes and typedefs for sorting algorithms. |
-| 0-bubble_sort.c    | Bubble Sort algorithm implementation for integer arrays. |
-| 2-selection_sort.c | Selection Sort algorithm implementation for integer arrays. |
+| File               | Description                                                                 |
+|--------------------|-----------------------------------------------------------------------------|
+| sort.h             | Header file with prototypes and typedefs for sorting algorithms.           |
+| 0-bubble_sort.c    | Bubble Sort algorithm implementation for integer arrays.                   |
+| 0-O                | Time and space complexity analysis for Bubble Sort.                        |
+| 2-selection_sort.c | Selection Sort algorithm implementation for integer arrays.                |
+| 2-O                | Time and space complexity analysis for Selection Sort.                     |
 
-*Raghad implemented the header file `sort.h` and worked on the Bubble Sort and Selection Sort algorithms (tasks 0 and 2).*
+*Raghad implemented header file `sort.h` and worked on the Bubble Sort and Selection Sort algorithms (tasks 0 and 2), including complexity files.*
 
 ---
 
 ### Najwa Aljunaidel
 
-| File                     | Description                                           |
-|--------------------------|-----------------------------------------------------|
-| 1-insertion_sort_list.c   | Insertion Sort algorithm implementation for doubly linked lists. |
-| 3-quick_sort.c            | Quick Sort algorithm implementation for integer arrays. |
+| File                     | Description                                                                      |
+|--------------------------|----------------------------------------------------------------------------------|
+| 1-insertion_sort_list.c  | Insertion Sort algorithm implementation for doubly linked lists.                |
+| 1-O                      | Time and space complexity analysis for Insertion Sort on doubly linked lists.   |
+| 3-quick_sort.c           | Quick Sort algorithm implementation for integer arrays.                         |
+| 3-O                      | Time and space complexity analysis for Quick Sort.                              |
 
-*Najwa focused on the Insertion Sort algorithm (task 1) and Quick Sort algorithm (task 3).*
+*Najwa focused on the Insertion Sort algorithm (task 1) and Quick Sort algorithm (task 3), including complexity files.*
+
+</div>
 
 </div>
 
