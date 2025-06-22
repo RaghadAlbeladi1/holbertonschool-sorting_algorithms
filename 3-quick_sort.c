@@ -1,4 +1,3 @@
-
 #include "sort.h"
 
 /**
@@ -77,4 +76,3 @@ return;
 
 quick_sort_rec(array, 0, (int)size - 1, size);
 }
-
