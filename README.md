@@ -35,21 +35,32 @@ Please use the "short" notation (don't use constants). Example: `O(nk)` or `O(wn
 
 --- 
 
-## Provided file(s)
-* [`print_array.c`](print_array.c)
-* [`print_list.c`](print_list.c)
-* definition of `listint_t` for [`sort.h`](sort.h)
-* [`0-main.c`](tests/0-main.c) [`1-main.c`](tests/1-main.c) [`2-main.c`](tests/2-main.c) [`3-main.c`](tests/3-main.c)
-
-
 ### Raghad Albeladi
 
-| File | Description |
-|-------|-------------|
+| File               | Description                                           |
+|--------------------|-----------------------------------------------------|
+| sort.h             | Header file with prototypes and typedefs for sorting algorithms. |
+| 0-bubble_sort.c    | Bubble Sort algorithm implementation for integer arrays. |
+| 2-selection_sort.c | Selection Sort algorithm implementation for integer arrays. |
+
+*Raghad implemented the header file `sort.h` and worked on the Bubble Sort and Selection Sort algorithms (tasks 0 and 2).*
+
+---
 
 ### Najwa Aljunaidel
-| File | Description |
-|-------|-------------|
+
+| File                     | Description                                           |
+|--------------------------|-----------------------------------------------------|
+| 1-insertion_sort_list.c   | Insertion Sort algorithm implementation for doubly linked lists. |
+| 3-quick_sort.c            | Quick Sort algorithm implementation for integer arrays. |
+
+*Najwa focused on the Insertion Sort algorithm (task 1) and Quick Sort algorithm (task 3).*
+
+---
+
+### Team Project Summary
+
+This project on C - Sorting Algorithms & Big O was developed collaboratively by Raghad Albeladi and Najwa Aljunaidel. We divided the tasks to maximize efficiency and leverage our individual strengths. I (Raghad) implemented the header file sort.h and worked on the bubble sort, selection sort, and quick sort algorithms (tasks 0, 2, and 3). Najwa focused on the insertion sort algorithm (task 1). Throughout the project, we coordinated closely to ensure code consistency, maintainability, and adherence to project requirements. Our combined efforts resulted in a comprehensive understanding of sorting techniques and their complexities, and we thoroughly tested each algorithm to ensure correctness and performance.
 
 ---
 ## Compilation / Instalistaion
