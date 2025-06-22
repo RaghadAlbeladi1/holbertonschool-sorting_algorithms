@@ -23,18 +23,13 @@ In addition to implementation, we learned to test, debug, analyze performance, a
 --- 
 
 ### Requirements
-* You are not allowed to use global variables
-* Unless specified otherwise, you are not allowed to use the standard library. Any use of functions like `printf`, `puts`, … is totally forbidden.
-* The following format is expected for big O notation:
-  * `O(1)`
-  * `O(n)`
-  * `O(n!)`
-  * n squared -> `O(n^2)`
-  * log(n) -> `O(log(n))`
-  * n * log(n) -> `O(nlog(n))`
-  * n + k -> `O(n+k)`
-
-Please use the "short" notation (don't use constants). Example: `O(nk)` or `O(wn)` should be written `O(n)`. If an answer is required within a file, all your answers files must have a newline at the end.
+- Ubuntu 22.04 LTS is used for compilation and testing.
+- No use of global variables.
+- No use of standard library functions (e.g., `printf`, `puts`) unless explicitly allowed.
+- All `.c` and `.h` files must comply with the **Betty coding style**.
+- All output files and answers must end with a newline.
+- Time and space complexities must follow short Big O notation:
+  - `O(1)`, `O(n)`, `O(n^2)`, `O(nlog(n))`, `O(log(n))`, `O(n!)`
 
 --- 
 <div align="center">
