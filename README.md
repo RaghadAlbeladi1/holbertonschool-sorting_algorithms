@@ -11,7 +11,8 @@
 
 ![Willy Wonk](https://raw.githubusercontent.com/RaghadAlbeladi1/holbertonschool-sorting_algorithms/main/willy-wonk.png)  
 <h1 align="center">C - Sorting Algorithms & Big O</h1>
-<br>
+<br> 
+</div>
 
 
 ### Description
