@@ -9,53 +9,55 @@
  */
 int partition(int *array, int start_index, int end_index, size_t size)
 {
-	int i = 0, j = 0, pivot = 0, aux = 0;
+    int i = 0, j = 0, pivot = 0, aux = 0;
 
-	pivot = array[end_index];
-	i = start_index;
+    pivot = array[end_index];
+    i = start_index;
 
-	for (j = start_index; j < end_index; j++)
-	{
-		if (array[j] < pivot)
-		{
-			aux = array[i];
-			array[i] = array[j];
-			array[j] = aux;
+    for (j = start_index; j < end_index; j++)
+    {
+        if (array[j] < pivot)
+        {
+            aux = array[i];
+            array[i] = array[j];
+            array[j] = aux;
 
-			if (aux != array[i])
-				print_array(array, size);
+            if (aux != array[i])
+                print_array(array, size);
 
-			++i;
-		}
-	}
+            ++i;
+        }
+    }
 
-	aux = array[i];
-	array[i] = array[end_index];
-	array[end_index] = aux;
+    aux = array[i];
+    array[i] = array[end_index];
+    array[end_index] = aux;
 
-	if (aux != array[i])
-		print_array(array, size);
+    if (aux != array[i])
+        print_array(array, size);
 
-	return (i);
+    return (i);
 }
+
 /**
- * quicksort - Sorts a section of an integer array using the quicksort algorithm
+ * quicksort - Sorts a section of an integer array
  * @array: The integer array to sort
- * @start_index: The starting index of the segment to be sorted
- * @end_index: The ending index of the segment to be sorted
- * @size: Total number of elements in the array
+ * @start_index: The starting index
+ * @end_index: The ending index
+ * @size: Total number of elements
  */
 void quicksort(int *array, int start_index, int end_index, size_t size)
 {
-	int p;
+    int p;
 
-	if (start_index >= end_index || start_index < 0)
-		return;
+    if (start_index >= end_index || start_index < 0)
+        return;
 
-	p = partition(array, start_index, end_index, size);
-	quicksort(array, start_index, p - 1, size);
-	quicksort(array, p + 1, end_index, size);
+    p = partition(array, start_index, end_index, size);
+    quicksort(array, start_index, p - 1, size);
+    quicksort(array, p + 1, end_index, size);
 }
+
 /**
  * quick_sort - that sorts an array of integers
  * @array: an array of integers
@@ -63,5 +65,8 @@ void quicksort(int *array, int start_index, int end_index, size_t size)
  */
 void quick_sort(int *array, size_t size)
 {
-	quicksort(array, 0, size - 1, size);
+    if (array == NULL || size < 2)
+        return;
+
+    quicksort(array, 0, size - 1, size);
 }
