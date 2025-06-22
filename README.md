@@ -34,6 +34,7 @@ Team project. Introduction to popular sorting algorithms, and using big O notati
 Please use the "short" notation (don't use constants). Example: `O(nk)` or `O(wn)` should be written `O(n)`. If an answer is required within a file, all your answers files must have a newline at the end.
 
 --- 
+<div align="center">
 
 ### Raghad Albeladi
 
@@ -55,6 +56,9 @@ Please use the "short" notation (don't use constants). Example: `O(nk)` or `O(wn
 | 3-quick_sort.c            | Quick Sort algorithm implementation for integer arrays. |
 
 *Najwa focused on the Insertion Sort algorithm (task 1) and Quick Sort algorithm (task 3).*
+
+</div>
+
 
 ---
 
