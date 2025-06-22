@@ -66,6 +66,18 @@ In addition to implementation, we learned to test, debug, analyze performance, a
 
 This project on C - Sorting Algorithms & Big O was developed collaboratively by Raghad Albeladi and Najwa Aljunaidel. We divided the tasks to maximize efficiency and leverage our individual strengths. I (Raghad) implemented the header file sort.h and worked on the bubble sort, selection sort, and quick sort algorithms (tasks 0, 2, and 3). Najwa focused on the insertion sort algorithm (task 1). Throughout the project, we coordinated closely to ensure code consistency, maintainability, and adherence to project requirements. Our combined efforts resulted in a comprehensive understanding of sorting techniques and their complexities, and we thoroughly tested each algorithm to ensure correctness and performance.
 
+##  Development & Git Flow
+
+- All changes were made via **Pull Requests** and reviewed by the other teammate.  
+- When conflicts occurred, they were resolved **through team coordination**.  
+- One major challenge was repeated failure with **Betty style** checks:  
+  - Despite merging, Holberton showed 91% due to Betty errors.  
+  - We created **3 separate branches** to isolate and fix style issues.  
+  - After repeated peer review and debugging, we reached **100%** score.  
+
+This process improved our understanding of version control, team communication, and debugging under pressure.
+
+
 ---
 ## Big O Complexity
 
