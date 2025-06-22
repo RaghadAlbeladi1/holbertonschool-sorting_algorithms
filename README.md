@@ -68,10 +68,29 @@ This project on C - Sorting Algorithms & Big O was developed collaboratively by 
 
 ---
 ## Compilation / Instalistaion
-      .
-      .
-      .
+      To compile all files and generate an executable `sort`:
+      
 ![C5FOCL4VcAEeMqn](https://github.com/user-attachments/assets/d8588522-f21c-41fe-b851-710b7d1a1a2f)
+
+```bash
+gcc -Wall -Wextra -Werror -pedantic *.c -o sort
+```
+
+To run a specific sorting algorithm:
+
+```bash
+./sort
+```
+
+Or you can test specific algorithms using the provided `main` files:
+
+```bash
+gcc -Wall -Wextra -Werror -pedantic print_array.c bubble_sort.c 0-main.c -o bubble
+./bubble
+```
+
+---
+
 
 
 
