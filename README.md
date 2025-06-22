@@ -67,6 +67,16 @@ In addition to implementation, we learned to test, debug, analyze performance, a
 This project on C - Sorting Algorithms & Big O was developed collaboratively by Raghad Albeladi and Najwa Aljunaidel. We divided the tasks to maximize efficiency and leverage our individual strengths. I (Raghad) implemented the header file sort.h and worked on the bubble sort, selection sort, and quick sort algorithms (tasks 0, 2, and 3). Najwa focused on the insertion sort algorithm (task 1). Throughout the project, we coordinated closely to ensure code consistency, maintainability, and adherence to project requirements. Our combined efforts resulted in a comprehensive understanding of sorting techniques and their complexities, and we thoroughly tested each algorithm to ensure correctness and performance.
 
 ---
+## Big O Complexity
+
+| Algorithm        | Best Case | Average Case | Worst Case |
+|------------------|-----------|--------------|-------------|
+| Bubble Sort      | O(n)      | O(n^2)       | O(n^2)      |
+| Insertion Sort   | O(n)      | O(n^2)       | O(n^2)      |
+| Selection Sort   | O(n^2)    | O(n^2)       | O(n^2)      |
+| Quick Sort       | O(nlog(n))| O(nlog(n))   | O(n^2)      |
+
+
 ## Compilation / Instalistaion
       To compile all files and generate an executable `sort`:
       
