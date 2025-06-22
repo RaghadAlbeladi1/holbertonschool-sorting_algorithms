@@ -15,7 +15,10 @@
 
 
 ### Description
-Team project. Introduction to popular sorting algorithms, and using big O notation to indicate time and space complexity.
+Team project.focuses on implementing classic sorting algorithms using the C programming language.  
+The goal is to deeply understand how different algorithms perform, compare their time complexities using **Big O notation**, and master low-level programming techniques such as pointer manipulation and memory management.
+
+In addition to implementation, we learned to test, debug, analyze performance, and collaborate effectively using Git and GitHub.
 
 --- 
 
