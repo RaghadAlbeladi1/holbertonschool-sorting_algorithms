@@ -127,31 +127,18 @@ Expected output after sorting:
 ```c
 3, 4, 7, 8, 9
 ```
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 ## Testing
+To verify that your sorting algorithms work correctly, compile and run the provided main files with the corresponding sorting function and print utilities.
 
-To test each algorithm:  
-Run the corresponding main file with the algorithm and `print_array.c` / `print_list.c`
-
-Example for testing Quick Sort:
+For example, to test **Bubble Sort**:
 
 ```bash
-gcc -Wall -Wextra -Werror -pedantic print_array.c quick_sort.c 3-main.c -o quick
-./quick
+gcc -Wall -Wextra -Werror -pedantic print_array.c 0-bubble_sort.c 0-main.c -o bubble
+./bubble
 ```
----
+
+
 ## Authors
 
 
