@@ -4,6 +4,13 @@
   <img src="https://github.com/user-attachments/assets/5f8d33ce-fed8-438a-935c-a9916afef26e" alt="Holberton logo" width="110" height="55"/>
   &nbsp;&nbsp;   
 <h1 align="center">C - Sorting Algorithms & Big O</h1>
+<br>
+<div align=center>  
+    <img  
+    style="text-align:center"  
+    src="https://raw.githubusercontent.com/coding-max/hbtn_config/main/assets/head_low-level.png"  
+    alt="Holberton School"/>  
+</div>
 
 ![Willy Wonk](https://raw.githubusercontent.com/RaghadAlbeladi1/holbertonschool-sorting_algorithms/main/willy-wonk.png)
 
