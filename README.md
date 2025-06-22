@@ -1,7 +1,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C logo" width="60" height="60"/>
   &nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/5f8d33ce-fed8-438a-935c-a9916afef26e" alt="Holberton logo" width="110" height="55"/>
-  &nbsp;&nbsp; 
+ 
 
 <div align=center>  
     <img  
@@ -97,12 +96,12 @@ Please use the "short" notation (don't use constants). Example: `O(nk)` or `O(wn
       <a href="https://github.com/NajwaAljunaidel">Najwa Aljunaidel</a>
     </td>
   </tr>
-</table>
+</table> 
+<div align="center" style="margin-top: 30px;">
+  <img src="https://github.com/user-attachments/assets/5f8d33ce-fed8-438a-935c-a9916afef26e" alt="Holberton logo" width="150" height="75" style="margin-right: 20px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Tuwaiq_Academy_Logo.svg/2560px-Tuwaiq_Academy_Logo.svg.png />
+</div>
 
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C logo" width="60" height="60"/>
-  &nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/5f8d33ce-fed8-438a-935c-a9916afef26e" alt="Holberton logo" width="110" height="55"/>
-  &nbsp;&nbsp;   
 
 
