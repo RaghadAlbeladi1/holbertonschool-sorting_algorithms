@@ -101,32 +101,43 @@ gcc -Wall -Wextra -Werror -pedantic print_array.c bubble_sort.c 0-main.c -o bubb
 
 ---
 ## Examples
-### Example 1: Testing Bubble Sort
 
-Suppose you have an integer array:
+### Example 1: Bubble Sort
+
+**Input:**
 
 ```c
-int array[] = {5, 2, 9, 1, 5, 6};
+int array[] = {5, 3, 1, 4, 2};
 size_t size = sizeof(array) / sizeof(array[0]);
-``` 
-You run the bubble sort function on this array, and it should sort the array in ascending order.Expected output after sorting:
-```c
-1, 2, 5, 5, 6, 9
+bubble_sort(array, size);
 ```
-### Example 2: Testing Insertion Sort on Doubly Linked List
+Output (via print_array after each swap):
+```c
+3, 5, 1, 4, 2
+3, 1, 5, 4, 2
+3, 1, 4, 5, 2
+3, 1, 4, 2, 5
+1, 3, 4, 2, 5
+1, 3, 2, 4, 5
+1, 2, 3, 4, 5
+```
+### Example 2: Insertion Sort (Doubly Linked List)
+**Input:**
+```c
+4 <-> 3 <-> 1 <-> 2
+```
 
-Suppose you have a doubly linked list created from the following integer array:
+**Output (via `print_list` after each swap):**
+```c
+3 <-> 4 <-> 1 <-> 2
+1 <-> 3 <-> 4 <-> 2
+1 <-> 2 <-> 3 <-> 4
+```
 
-```c
-int array[] = {8, 3, 7, 4, 9};
-size_t size = sizeof(array) / sizeof(array[0]);
-listint_t *list = create_listint(array, size);
-```
-You run the insertion sort function on this doubly linked list, and it should sort the list in ascending order.
-Expected output after sorting:
-```c
-3, 4, 7, 8, 9
-```
+
+
+
+
 ---
 ## Testing
 To verify that your sorting algorithms work correctly, compile and run the provided main files with the corresponding sorting function and print utilities.
