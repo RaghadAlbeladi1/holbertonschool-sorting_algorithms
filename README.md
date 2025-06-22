@@ -1,10 +1,5 @@
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C logo" width="60" height="60"/>
-  &nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/5f8d33ce-fed8-438a-935c-a9916afef26e" alt="Holberton logo" width="110" height="55"/>
-  &nbsp;&nbsp;   
-<h1 align="center">C - Sorting Algorithms & Big O</h1>
-<br>
+
 <div align=center>  
     <img  
     style="text-align:center"  
@@ -12,7 +7,9 @@
     alt="Holberton School"/>  
 </div>
 
-![Willy Wonk](https://raw.githubusercontent.com/RaghadAlbeladi1/holbertonschool-sorting_algorithms/main/willy-wonk.png)
+![Willy Wonk](https://raw.githubusercontent.com/RaghadAlbeladi1/holbertonschool-sorting_algorithms/main/willy-wonk.png)  
+<h1 align="center">C - Sorting Algorithms & Big O</h1>
+<br>
 
 
 ### Description
@@ -98,5 +95,11 @@ Please use the "short" notation (don't use constants). Example: `O(nk)` or `O(wn
     </td>
   </tr>
 </table>
+
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C logo" width="60" height="60"/>
+  &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/5f8d33ce-fed8-438a-935c-a9916afef26e" alt="Holberton logo" width="110" height="55"/>
+  &nbsp;&nbsp;   
 
 
