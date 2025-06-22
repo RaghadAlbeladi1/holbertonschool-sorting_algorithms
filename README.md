@@ -1,11 +1,13 @@
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C logo" width="60" height="60"/>
+  &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/5f8d33ce-fed8-438a-935c-a9916afef26e" alt="Holberton logo" width="110" height="55"/>
+  &nbsp;&nbsp; 
 
 <div align=center>  
     <img  
     style="text-align:center"  
     src="https://raw.githubusercontent.com/coding-max/hbtn_config/main/assets/head_low-level.png"  
     alt="Holberton School"/>  
-</div>
 
 ![Willy Wonk](https://raw.githubusercontent.com/RaghadAlbeladi1/holbertonschool-sorting_algorithms/main/willy-wonk.png)  
 <h1 align="center">C - Sorting Algorithms & Big O</h1>
